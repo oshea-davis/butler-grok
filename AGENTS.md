@@ -30,7 +30,7 @@ Butler Grok is an **unofficial Electron desktop GUI** around Grok Build / xAI. P
 
 ## Data directory
 
-Resolved in `electron/main.cjs` (`BUTLER_DATA_DIR` → legacy `C:\\Grok Build\\Butler Grok\\Data` → Electron userData).  
+Resolved in `electron/main.cjs` (`BUTLER_DATA_DIR` → legacy `C:\Grok Build\Butler Grok\Data` → Electron userData).  
 User settings include API keys — **never read them into commits or logs.**
 
 ## Common tasks

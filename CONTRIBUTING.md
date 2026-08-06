@@ -19,7 +19,7 @@ npm run start:prod   # run packaged UI path
 
 ### Windows notes
 
-- **Grok CLI:** install Grok Build so `grok` resolves (often `%USERPROFILE%\\.grok\\bin`).  
+- **Grok CLI:** install Grok Build so `grok` resolves (often `%USERPROFILE%\.grok\bin`).  
 - **API key:** Settings only — never commit.  
 - **Data folder:** auto-created; never commit `Data/`.
 
